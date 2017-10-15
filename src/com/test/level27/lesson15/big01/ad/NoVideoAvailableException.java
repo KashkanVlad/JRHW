@@ -1,0 +1,6 @@
+package com.test.level27.lesson15.big01.ad;
+
+
+public class NoVideoAvailableException extends RuntimeException{
+
+}
